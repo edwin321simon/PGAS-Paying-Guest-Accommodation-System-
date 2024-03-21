@@ -1,1 +1,1 @@
-# PGAS-Paying-Guest-Accommodation-System-
+# PGAS-Paying-Guest-Accommodation-System
